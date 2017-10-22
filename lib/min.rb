@@ -13,6 +13,6 @@ def get_the_min(groceries)
 #=> ["milk", "yogurt", "cheese", "carrots", "broccoli", "cucumbers", 
 #{}"chicken", "steak", "salmon", "rice", "pasta"]
 
-    groceries.values.flatten.min
-    #=> "broccoli"
+  groceries.values.flatten.min
+  #=> "broccoli"
 end
