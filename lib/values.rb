@@ -14,6 +14,6 @@ def get_the_values(groceries)
 #["chicken", "steak", "salmon"], ["rice", "pasta"]]
 
 groceries.values.flatten
-#=> ["milk", "yogurt", "cheese", "carrots", "broccoli", "cucumbers", "chicken", 
+#=> ["milk", "yogurt", "cheese", "carrots", "broccoli", "cucumbers", "chicken",
 #{}"steak", "salmon", "rice", "pasta"]
 end
